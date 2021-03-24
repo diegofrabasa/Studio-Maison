@@ -1,0 +1,25 @@
+main {
+    min-height: 60vh;
+}
+
+.header-logo {
+    max-width: 240px;
+}
+
+.header-social-icons i {
+    color: #cfc1b5;
+    padding: 4px;
+}
+
+footer {
+    background-color: #cfc1b5;
+    color: #ffffff;
+}
+.footer-logo {
+    max-width: 180px;
+}
+
+.footer-social-icons i {
+    color: #ffffff;
+    padding: 4px;
+}
